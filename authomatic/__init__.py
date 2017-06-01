@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-This is the only interface that you should ever need to get a **user** logged in, get
+This is the only interface that you should ever need to get a **user** logged
+in, get.
+
 **his/her** info and credentials, deserialize the credentials
 and access **his/her protected resources**.
 
