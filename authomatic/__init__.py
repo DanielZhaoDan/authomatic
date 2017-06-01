@@ -21,4 +21,12 @@ and access **his/her protected resources**.
 """
 
 from . import six
-from .core import Authomatic, setup, login, provider_id, access, async_access, credentials, request_elements, backend
+from .core import Authomatic
+from .core import setup
+from .core import login
+from .core import provider_id
+from .core import access
+from .core import async_access
+from .core import credentials
+from .core import request_elements
+from .core import backend
