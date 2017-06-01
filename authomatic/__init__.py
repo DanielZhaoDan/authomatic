@@ -6,7 +6,7 @@ and access **his/her protected resources**.
 
 .. autosummary::
     :nosignatures:
-    
+
     authomatic.setup
     authomatic.login
     authomatic.provider_id
